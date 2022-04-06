@@ -13,19 +13,19 @@ The purpose of this code is to generate a quiz game asking about the fundamental
 
 ### We begin by presenting the user an option to start the quiz or view high scores.
 
-![The main splash screen the user first sees".](./assets/images/startofQuiz.png)
+![The main splash screen the user first sees".](./Assets/images/startofQuiz.png)
 
 ### After the user clicks "Start Quiz", we begin to quiz with a question and multiple choice prompts.
 
-![The Password Generator application asks for user input in an alert window".](./assets/images/questions.png)
+![The Password Generator application asks for user input in an alert window".](./Assets/images/questions.png)
 
 ### Once the user completes the quiz, their score is printed and they have the option of submitting their score with their name.
 
-![Score submission screen".](./assets/images/submitScore.png)
+![Score submission screen".](./Assets/images/submitScore.png)
 
 ### Finally, the user can view all saved scores by clicking View High Scores on the top left.
 
-![Score submission screen".](./assets/images/savedScores.png)
+![Score submission screen".](./Assets/images/savedScores.png)
 
 You can view this quiz game in action [here.](https://fusionneo.github.io/quiz-game-homework04/)
 
